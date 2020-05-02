@@ -1610,8 +1610,8 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-rWdWxGpwv0 {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #eb1414;
 }
 .cid-rWdWxGpwv0 .mbr-section-subtitle {
@@ -1619,64 +1619,12 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-rWdWxGpwv0 H2 {
-  color: #ffffff;
-}
-.cid-rWdWygfWci {
-  padding-top: 60px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-rWdWygfWci .carousel-item {
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-rWdWygfWci .carousel-item.active,
-.cid-rWdWygfWci .carousel-item-next,
-.cid-rWdWygfWci .carousel-item-prev {
-  display: flex;
-}
-.cid-rWdWygfWci .carousel-controls a {
-  transition: opacity .5s;
-  font-size: 2rem;
-}
-.cid-rWdWygfWci .carousel-controls a span {
-  position: absolute;
-  top: 180px;
-  padding: 10px;
-  border-radius: 50%;
-  color: #585858;
-  background: #c8c6c6;
-  opacity: .5;
-}
-.cid-rWdWygfWci .carousel-controls a:hover span {
-  opacity: 1;
-}
-.cid-rWdWygfWci .user_image {
-  width: 200px;
-  height: 200px;
-  margin-bottom: 1.6rem;
-  overflow: hidden;
-  border-radius: 50%;
-  margin: 0 auto 2rem auto;
-}
-.cid-rWdWygfWci .user_image img {
-  width: 100%;
-  min-width: 100%;
-  min-height: 100%;
-}
-@media (max-width: 230px) {
-  .cid-rWdWygfWci .user_image {
-    width: 100%;
-    height: auto;
-  }
-}
-.cid-rWdWygfWci H2 {
-  color: #0f7699;
+  color: #eb1414;
 }
 .cid-rWdWAceC79 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #efefef;
+  background-color: #cccccc;
 }
 .cid-rWdWAceC79 .mbr-section-subtitle {
   color: #eb1414;
@@ -1685,30 +1633,9 @@ section.lazy-placeholder:after {
 .cid-rWdWAceC79 H2 {
   color: #232323;
 }
-.cid-rWe5XMJv23 {
-  padding-top: 45px;
-  padding-bottom: 30px;
-  background-color: #232323;
-}
-.cid-rWe5XMJv23 .mbr-section-subtitle {
-  color: #232323;
-  text-align: center;
-}
-.cid-rWe5XMJv23 H2 {
-  color: #ffffff;
-}
-.cid-rWdWyH0dRL {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rWdWyH0dRL .mbr-section-subtitle {
-  color: #767676;
-  text-align: center;
-}
 .cid-rWe63q6oBi {
-  padding-top: 45px;
-  padding-bottom: 30px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #eb1414;
 }
 .cid-rWe63q6oBi .mbr-section-subtitle {
@@ -1716,7 +1643,7 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-rWe63q6oBi H2 {
-  color: #ffffff;
+  color: #eb1414;
 }
 .cid-rWdWzmRvvx {
   padding-top: 60px;
