@@ -4645,11 +4645,10 @@ section.lazy-placeholder:after {
 }
 .cid-rZM9TeU74X {
   background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 60px;
 }
 .cid-rZM9TeU74X .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-rZM9TeU74X .video-block {
@@ -4674,11 +4673,10 @@ section.lazy-placeholder:after {
 }
 .cid-rZMS7UBn9J {
   background: #ffffff;
-  padding-top: 30px;
-  padding-bottom: 60px;
 }
 .cid-rZMS7UBn9J .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-rZMS7UBn9J .video-block {
