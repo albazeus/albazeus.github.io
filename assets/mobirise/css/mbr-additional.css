@@ -5350,23 +5350,21 @@ section.lazy-placeholder:after {
     -webkit-flex-basis: initial !important;
   }
 }
-.cid-rZS8vxctOv {
-  padding-top: 60px;
-  padding-bottom: 15px;
-  background-image: url("../../../assets/images/colores3-800x374.png");
-}
-.cid-rZS8vxctOv H2 {
-  color: #ffffff;
-}
 .cid-rZS8vA4OUJ {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
   background: linear-gradient(45deg, #ffffff, #ffffff);
 }
+.cid-rZS8vA4OUJ .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
 @media (min-width: 992px) {
   .cid-rZS8vA4OUJ .mbr-figure {
     padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
