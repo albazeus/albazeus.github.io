@@ -5110,7 +5110,7 @@ section.lazy-placeholder:after {
 .cid-rZSxxBSV30 {
   background: #ffffff;
   padding-top: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
 }
 .cid-rZSxxBSV30 .image-block {
   margin: auto;
@@ -5131,7 +5131,7 @@ section.lazy-placeholder:after {
 .cid-rZS8vrcZRO {
   padding-top: 30px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-rZS8vrcZRO .mbr-section-subtitle {
   color: #070513;
