@@ -5181,10 +5181,11 @@ section.lazy-placeholder:after {
 .cid-rZS8vtDoVe .mbr-text,
 .cid-rZS8vtDoVe .mbr-section-btn {
   color: #232323;
+  text-align: right;
 }
 .cid-rZS8vubJF8 {
   padding-top: 75px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #ffffff;
   background: linear-gradient(45deg, #ffffff, #ffffff);
 }
@@ -5215,6 +5216,7 @@ section.lazy-placeholder:after {
 .cid-rZS8vubJF8 .mbr-text,
 .cid-rZS8vubJF8 .mbr-section-btn {
   color: #232323;
+  text-align: left;
 }
 .cid-rZS8vuGrA6 {
   padding-top: 30px;
