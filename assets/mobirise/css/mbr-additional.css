@@ -5044,14 +5044,23 @@ section.lazy-placeholder:after {
 .cid-rZTTJJvMXv {
   padding-top: 15px;
   padding-bottom: 0px;
-  background: linear-gradient(45deg, #ffffff, #ffffff);
+  background: linear-gradient(45deg, #eb1414, #eb1414);
 }
 .cid-rZTTJJvMXv .mbr-section-subtitle {
   font-style: italic;
   letter-spacing: 1rem;
 }
 .cid-rZTTJJvMXv H3 {
-  color: #eb1414;
+  color: #ffffff;
+  text-align: right;
+}
+.cid-rZTTJJvMXv .mbr-text,
+.cid-rZTTJJvMXv .mbr-section-btn {
+  color: #ffffff;
+  text-align: right;
+}
+.cid-rZTTJJvMXv .mbr-section-title {
+  color: #ffffff;
   text-align: right;
 }
 .cid-rZS8vpOfd9 {
