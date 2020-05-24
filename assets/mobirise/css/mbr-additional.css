@@ -2885,9 +2885,15 @@ section.lazy-placeholder:after {
   background-color: #ffffff;
   background: linear-gradient(45deg, #ffffff, #ffffff);
 }
+.cid-rZS8vubJF8 .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
 @media (min-width: 992px) {
   .cid-rZS8vubJF8 .mbr-figure {
     padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
