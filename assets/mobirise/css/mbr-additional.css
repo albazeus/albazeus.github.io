@@ -2481,6 +2481,22 @@ section.lazy-placeholder:after {
 .cid-rZXYFX7a5I .mbr-section-subtitle DIV {
   text-align: center;
 }
+.cid-s0fAxv3mUx {
+  padding-top: 60px;
+  padding-bottom: 75px;
+  background-color: #ffffff;
+}
+.cid-s0fAxv3mUx .mbr-section-subtitle {
+  color: #070513;
+  text-align: center;
+}
+.cid-s0fAxv3mUx H2 {
+  color: #010000;
+  text-align: left;
+}
+.cid-s0fAxv3mUx .mbr-section-subtitle DIV {
+  text-align: left;
+}
 .cid-s0cSmRjUin {
   padding-top: 30px;
   padding-bottom: 45px;
@@ -3456,10 +3472,10 @@ section.lazy-placeholder:after {
 }
 .cid-s0fvYgxwed H2 {
   color: #010000;
-  text-align: right;
+  text-align: left;
 }
 .cid-s0fvYgxwed .mbr-section-subtitle DIV {
-  text-align: right;
+  text-align: left;
 }
 .cid-s0cTubStj7 {
   padding-top: 15px;
