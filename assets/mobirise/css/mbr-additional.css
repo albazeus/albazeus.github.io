@@ -6354,9 +6354,9 @@ section.lazy-placeholder:after {
   color: #232323;
 }
 .cid-s1FO0J0j7E {
-  padding-top: 15px;
+  padding-top: 60px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-s1FO0J0j7E .mbr-section-subtitle {
   color: #767676;
@@ -6368,7 +6368,7 @@ section.lazy-placeholder:after {
   height: 72px;
   font-size: 36px;
   border-radius: 50%;
-  border: 2px solid #efefef;
+  border: 2px solid #232323;
   padding-bottom: 0;
 }
 @media (min-width: 768px) {
@@ -6382,7 +6382,7 @@ section.lazy-placeholder:after {
     content: "";
     height: 2px;
     width: calc(50% + 15px - 36px - 8px);
-    background-color: #efefef;
+    background-color: #232323;
   }
   .cid-s1FO0J0j7E .separline .step-wrapper:before {
     left: -15px;
