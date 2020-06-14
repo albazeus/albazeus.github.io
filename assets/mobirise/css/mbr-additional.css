@@ -4991,10 +4991,65 @@ section.lazy-placeholder:after {
   color: #232323;
   text-align: left;
 }
+.cid-s1STNTJFzr {
+  padding-top: 75px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-s1STNTJFzr .mbr-section-subtitle {
+  color: #232323;
+  text-align: center;
+}
+.cid-s1STNTJFzr H2 {
+  color: #635a51;
+}
+.cid-s1STNTJFzr .mbr-section-subtitle DIV {
+  text-align: center;
+}
+.cid-s1SUtnRZmr {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-color: #82786e;
+}
+.cid-s1SUtnRZmr .mbr-section-subtitle {
+  color: #82786e;
+  text-align: left;
+}
+.cid-s1SUtnRZmr H2 {
+  color: #ffffff;
+}
+.cid-s1SWA7BGJ0 {
+  padding-top: 60px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+  background: linear-gradient(45deg, #ffffff, #ffffff);
+}
+@media (min-width: 992px) {
+  .cid-s1SWA7BGJ0 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s1SWA7BGJ0 .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-s1SWA7BGJ0 .mbr-text {
+    text-align: center;
+  }
+}
+.cid-s1SWA7BGJ0 H1 {
+  color: #232323;
+}
+.cid-s1SWA7BGJ0 .mbr-text,
+.cid-s1SWA7BGJ0 .mbr-section-btn {
+  color: #232323;
+}
 .cid-s1SMgR3sAV {
   padding-top: 60px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #4f4943;
 }
 .cid-s1SMgR3sAV .carousel-item {
   justify-content: center;
@@ -5043,6 +5098,9 @@ section.lazy-placeholder:after {
 .cid-s1SMgR3sAV H2 {
   color: #0f7699;
 }
+.cid-s1SMgR3sAV .user_text {
+  color: #ffffff;
+}
 .cid-s1SMgRz5dy {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -5080,7 +5138,7 @@ section.lazy-placeholder:after {
 .cid-s1SMgRQKq5 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-s1SMgRQKq5 .mbr-section-subtitle {
   color: #767676;
@@ -5240,7 +5298,7 @@ section.lazy-placeholder:after {
 .cid-s1SMgSWjOx {
   padding-top: 15px;
   padding-bottom: 45px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-s1SMgSWjOx .mbr-section-subtitle {
   color: #767676;
