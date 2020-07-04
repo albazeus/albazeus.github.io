@@ -11914,7 +11914,7 @@ section.lazy-placeholder:after {
 }
 .cid-s3e2USrOJI {
   padding-top: 120px;
-  padding-bottom: 30px;
+  padding-bottom: 75px;
   background: linear-gradient(45deg, #efefef, #ffffff);
 }
 .cid-s3e2USrOJI .mbr-section-subtitle {
@@ -12314,4 +12314,25 @@ section.lazy-placeholder:after {
 }
 .cid-s3dZS7wbYJ H2 {
   color: #ffffff;
+}
+.cid-s3LL2zGOwi {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-s3LL2zGOwi .image-block {
+  margin: auto;
+}
+.cid-s3LL2zGOwi figcaption {
+  position: relative;
+}
+.cid-s3LL2zGOwi figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-s3LL2zGOwi .image-block {
+    width: 100% !important;
+  }
 }
