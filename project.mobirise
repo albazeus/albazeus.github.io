@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LA PIRAMIDE ROJA",
-    "currentPage": "manuel.bravo.html",
+    "currentPage": "manuelJG.bravo.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -20069,9 +20069,9 @@
         }
       ]
     },
-    "manuel.bravo.html": {
+    "manuelJG.bravo.html": {
       "settings": {
-        "title": "Manuel BRAVO",
+        "title": "Manuel JG",
         "meta_descr": "\"Hola, soy manuel BRAVO, freelance asesor y formador en diseño web y estrategias de negocio digitales\".",
         "header_custom": "",
         "footer_custom": "",
